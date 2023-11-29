@@ -1,0 +1,39 @@
+/* body{
+    background:linear-gradient(180deg,white 0%,white 100%);
+}    
+.contact-container{
+    width:20%;
+    margin:20px auto;
+    
+}
+button{
+    background: rgb(88, 88, 183);
+    width: 100px;
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px 0px rgba(28, 0, 181, 0.3);
+} */
+body{
+    background:linear-gradient(180deg,white 0%,white 100%);
+}    
+.contact-container{
+    width:20%;
+    margin:20px auto;
+    color: black;
+
+    
+}
+.sbutton{
+    background: #1c00b5;
+    width: 100px;
+    border: none;
+    outline: none;
+    color: #fff;
+    height: 35px;
+    border-radius: 35px;
+    margin-top: 20px;
+}
